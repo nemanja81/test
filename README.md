@@ -1,5 +1,1 @@
-# test
-test
-comment well
-not 3
-end ;
+risset's sketch score code in music iv and music v
